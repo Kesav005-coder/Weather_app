@@ -2,6 +2,8 @@
 
 A comprehensive weather application built with vanilla JavaScript, HTML, and CSS. This project demonstrates modern web development practices including authentication, API integration, and responsive design.
 
+Live site demo : [Weatherapp](https://codebyniranjan.github.io/weatherapp/)
+
 ## 📋 Table of Contents
 
 - [Features](#features)
