@@ -3,7 +3,7 @@
 A multi-page weather application built using vanilla JavaScript, HTML, and CSS.
 This project demonstrates authentication flow, API integration, local storage usage, and responsive UI design — without any frameworks.
 
-🔗 Live Demo: https://codebyniranjan.github.io/weatherapp/
+🔗 Live Demo: [WeatherApp](https://kesav005-coder.github.io/Weather_app/)
 
 ✨ Features
 🔐 Authentication
